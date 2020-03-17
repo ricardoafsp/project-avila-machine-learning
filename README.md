@@ -12,5 +12,5 @@ El proyecto consiste en lograr la mejor predicción de autores de la biblia "fic
 * GradientBoostingClassifier
 * KNeighborsClassifier
 
-## Conclusión: 
+## Conclusión:
 Observamos que el modelo que mejor resultado da es el HistGradientBoostingClassifier, y como por defecto su Learning Rate es de 0.10 lo aumentamos a un 0.25 para mejorar el resultado obtenido.
